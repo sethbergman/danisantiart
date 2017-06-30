@@ -1,5 +1,7 @@
 # DaniSantiArt
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sethbergman/danisantiart.svg)](https://greenkeeper.io/)
+
 A Bootstrap theme with a node express backend
 
 --------------------------------------------------------------------------------
